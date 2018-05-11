@@ -1,0 +1,10 @@
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\bin\Debug\Gmail_Log.exe.config
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\bin\Debug\Gmail_Log.exe
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\bin\Debug\Gmail_Log.pdb
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.Form1.resources
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.Properties.Resources.resources
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.csproj.GenerateResource.Cache
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.csproj.CoreCompileInputs.cache
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.exe
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.pdb
+C:\Users\M.S.Prasad\source\repos\Gmail_Log\Gmail_Log\obj\Debug\Gmail_Log.csprojResolveAssemblyReference.cache
